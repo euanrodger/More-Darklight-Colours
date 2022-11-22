@@ -1,0 +1,4 @@
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\More Darklight Colours\Assemblies\More Darklight Colours.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\More Darklight Colours\Source\More Darklight Colours\obj\Debug\More Darklight Colours.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\More Darklight Colours\Source\More Darklight Colours\obj\Debug\More Darklight Colours.csproj.CopyComplete
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\More Darklight Colours\Source\More Darklight Colours\obj\Debug\More Darklight Colours.dll
